@@ -1,0 +1,9 @@
+[web]
+
+master ansible_host=142.93.117.10
+worker ansible_host=143.244.150.22
+
+worker2 ansible_host=44.203.72.137 ansible_user=ec2-user
+worker3 ansible_host=44.206.225.15 ansible_user=ec2-user
+
+worker4 ansible_ssh_host=34.16.148.172 ansible_user=adilet_abasovv
